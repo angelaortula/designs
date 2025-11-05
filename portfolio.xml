@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+  <owner>
+    <name>Angela Mae B. Ortula</name>
+    <title>Web Developer</title>
+    <description>
+    </description>
+    <email>ortulaangela20@gmail.com</email>
+    <phone>09657894124</phone>
+    <address>Bangkal, City of Malolos, Bulacan</address>
+  </owner>
+
+  <about>
+    <education>
+      <level type="College">
+        <school>La Consolacion University Philippines</school>
+        <course>BS Information Technology</course>
+        <year>2021–2026</year>
+      </level>
+      <level type="Senior High School">
+        <school>Malolos Marine Fishery School and Laboratory</school>
+        <strand>HUMSS</strand>
+        <year>2019–2021</year>
+      </level>
+      <level type="Junior High School">
+        <school>Malolos Marine Fishery School and Laboratory</school>
+        <year>2016–2019</year>
+      </level>
+      <level type="Elementary">
+        <school>Bangkal Elementary School</school>
+        <year>2011–2016</year>
+      </level>
+    </education>
+  </about>
+
+  <services>
+    <service>
+      <name>UI / UX Design</name>
+      <icon>bxl-figma</icon>
+      <description>
+        Designing intuitive interfaces with a focus on user experience and visual appeal.
+      </description>
+    </service>
+    <service>
+      <name>Godot Development</name>
+      <icon>bx-joystick</icon>
+      <description>
+        Creating and managing 2D/3D applications and games using Godot Engine.
+      </description>
+    </service>
+    <service>
+      <name>Web Development</name>
+      <icon>bx-code</icon>
+      <description>
+        I build responsive and user-friendly websites using modern web technologies.
+      </description>
+    </service>
+  </services>
+
+  <projects>
+    <project>
+      <title>Portfolio Website</title>
+      <image>logo1.png</image>
+      <description>
+        A personal portfolio website showcasing my skills, services, and projects.
+      </description>
+    </project>
+    <project>
+      <title>Godot Game Development</title>
+      <image>logo2.jpg</image>
+      <description>
+        A 2D platformer game developed in Godot Engine with custom scripts and level design.
+      </description>
+    </project>
+    <project>
+      <title>Smart Queue Management System</title>
+      <image>logo3.jpg</image>
+      <description>
+        A QR-code based queuing system designed to improve barangay service efficiency.
+      </description>
+    </project>
+  </projects>
+
+  <contact>
+    <form>
+      <field type="text" label="Full Name" required="true" />
+      <field type="email" label="Email" required="true" />
+      <field type="number" label="Phone Number" required="true" />
+      <field type="textarea" label="Message" required="true" />
+    </form>
+  </contact>
+</portfolio>
+
